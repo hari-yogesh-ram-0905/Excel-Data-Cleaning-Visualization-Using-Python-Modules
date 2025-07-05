@@ -107,7 +107,7 @@ def save_to_mysql(df, table_name):
 
             host="localhost",
             user="root",
-            password="Sharma@45177",
+            password="<give your mysql password>",
             database="Python_Project"
 
         )
